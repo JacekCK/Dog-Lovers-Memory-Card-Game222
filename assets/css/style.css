@@ -12,7 +12,7 @@ html {
 }
 
 body {
-    background: radial-gradient(circle at 50.4% 50.5%, rgb(75, 64, 229) 10%, rgb(27, 13, 216)90%);
+    background: radial-gradient(circle at 50.4% 50.5%, rgb(193, 190, 239) 10%, rgb(27, 13, 216)90%);
     background-position: center;
     background-repeat: no-repeat;
     background-size: inherit;
@@ -42,8 +42,12 @@ h2 {
 }
 
 h3 {
-    font-family: Open-Sans, sans-serif;
-    font-size: 1.2rem;
+    font-family: Open-Sans, serif;
+    font-size: 1rem;
     margin: 0 auto;
     padding: 0;
+
 }
+
+
+
