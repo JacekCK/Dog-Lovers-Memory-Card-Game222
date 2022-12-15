@@ -37,19 +37,26 @@ h1 {
 h2 {
     font-family: Open-Sans, sans-serif;
     font-size: 1.2rem;
-    margin: 0 auto;
+    margin: 0.5rem auto;
     padding: 0;
 }
 
 h3 {
     font-family: Open-Sans, serif;
     font-size: 1rem;
-    margin: 0 auto;
+    margin: 0.5rem auto;
     padding: 0;
 
 }
 
-
+#game-section {
+    width: 640px;
+    height: 640px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    perspective: 1000px;
+  }
 
 
 
